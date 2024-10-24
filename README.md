@@ -36,7 +36,7 @@
 <div align="center">
  <a href="https://github.com/romankh3/github-profile-views-counter">
        <img alt="Static Badge" width="175px" src="https://komarev.com/ghpvc/?username=shizaX&color=DE002D">
-   <a href="https://new.donatepay.ru/@L1ghtsitte">
+ <a href="https://new.donatepay.ru/@L1ghtsitte">
        <img alt="Static Badge" width="80px" src="https://img.shields.io/badge/donate-for_autor">
    </a>
 </div>
