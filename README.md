@@ -4,9 +4,10 @@
 
 <h3 align="center"> <a href="https://github.com/L1ghtsitte"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6DF72E&width=435&separator=%3C&lines=%D0%92%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE+%D1%8F+%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E+%D1%87%D1%82%D0%BE-%D1%82%D0%BE+%D0%BD%D0%B5+%D1%82%D0%B0%D0%BA;%3C+%D0%9D%D0%BE+%D1%82%D1%8B+%D0%B2%D1%81%D0%B5+%D1%80%D0%B0%D0%B2%D0%BD%D0%BE+%D1%8D%D1%82%D0%BE+%D1%81%D0%BF%D0%B8%D1%88%D0%B5%D1%88%D1%8C+%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8E" alt="Typing SVG" /></a> </h3>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/L1ghtsitte/L1ghtsitte/blob/main/snake/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/L1ghtsitte/L1ghtsitte/blob/main/snake/snake.svg)" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/L1ghtsitte/L1ghtsitte/blob/main/snake/snake.svg") />
   <img alt="github-snake" src="https://github.com/L1ghtsitte/L1ghtsitte/blob/main/snake/snake.svg" />
 </picture>
 
