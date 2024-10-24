@@ -29,10 +29,7 @@
 
 ### My opensource projects
 
-*   [CPP](https://github.com/L1ghtsitte/CPP) - repository for C++
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
+*    href="https://github.com/romankh3/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=L1ghtsitte&color=DE002D">
    </a>
 </div>
