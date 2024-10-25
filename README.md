@@ -33,6 +33,11 @@
 
 ### My opensource projects
 
+<div>
+
+* <a href='https://github.com/L1ghtsitte/calculator'>calculator</a> - I will definitely finish it and post it someday.
+  
+</div>
 
 <div align="center">
  <a href="https://github.com/romankh3/github-profile-views-counter">
