@@ -39,7 +39,9 @@
 
 <div>
 
-* <a href='https://github.com/L1ghtsitte/hangman'>hangman</a> - My college project.
+* <a href='https://github.com/L1ghtsitte/hangman'>hangman</a> - Hangman++ is my college project.
+
+* <a href='https://github.com/L1ghtsitte/tik-tak-game'>Tik Tak++ game </a> - My college project.
   
 </div>
 
