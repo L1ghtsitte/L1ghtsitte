@@ -39,7 +39,7 @@
 
 <div>
 
-* <a href='https://github.com/L1ghtsitte/calculator'>calculator</a> - I will definitely finish it and post it someday.
+* <a href='https://github.com/L1ghtsitte/hangman'>hangman</a> - My college project.
   
 </div>
 
